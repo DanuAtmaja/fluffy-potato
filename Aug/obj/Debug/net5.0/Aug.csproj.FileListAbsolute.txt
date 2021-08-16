@@ -1,0 +1,12 @@
+/Users/danu/RiderProjects/AugTDD/Aug/bin/Debug/net5.0/Aug.deps.json
+/Users/danu/RiderProjects/AugTDD/Aug/bin/Debug/net5.0/Aug.dll
+/Users/danu/RiderProjects/AugTDD/Aug/bin/Debug/net5.0/ref/Aug.dll
+/Users/danu/RiderProjects/AugTDD/Aug/bin/Debug/net5.0/Aug.pdb
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.csproj.AssemblyReference.cache
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.AssemblyInfoInputs.cache
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.AssemblyInfo.cs
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.csproj.CoreCompileInputs.cache
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.dll
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/ref/Aug.dll
+/Users/danu/RiderProjects/AugTDD/Aug/obj/Debug/net5.0/Aug.pdb
