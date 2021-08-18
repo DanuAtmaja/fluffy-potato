@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using NUnit.Framework;
 
 namespace Aug
@@ -60,6 +61,17 @@ namespace Aug
             double result = calc.AddNumbersDouble(a, b);
             
             Assert.AreEqual(15.9, result, .2);
+        }
+
+        [Test]
+        public void OddReanger_InputMinAndMaxRange_ReturnsValidOddNumberRange()
+        {
+            Calculator calc = new();
+            List<int> expectedOddRange = new() { 5, 7, 9 };
+
+            List<int> result = calc.GetOddRange(3, 10);
+            
+            Assert.That(result, Is.EquivalentTo(expectedOddRange));
         }
     }
 }

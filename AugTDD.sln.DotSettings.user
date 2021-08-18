@@ -5,9 +5,21 @@
     &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CalculatorNUnitTests.IsOddChecker_InputEvenNumber_ReturnFalse&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c5f8de6_002Dedc1_002D4ae1_002Dab82_002D42eba145aec6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsOddChecker_InputEvenNumber_ReturnFalse #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6c5f8de6_002Dedc1_002D4ae1_002Dab82_002D42eba145aec6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IsOddChecker_InputEvenNumber_ReturnFalse #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CalculatorNUnitTests.IsOddChecker_InputEvenNumber_ReturnFalse&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.CombineName_InputFirstAndLastName_ReturnFullName&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.GreetMessage_NotGreeted_ReturnsNull&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CalculatorNUnitTests.OddReanger_InputMinAndMaxRange_ReturnsValidOddNumberRange&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.DiscountCheck_DefaultCustomer_ReturnsDiscountInRange&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.GreetMessage_GreetedWithoutLastName_ReturnsNotNull&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.GreetChecker_EmptyFirstName_ThrowsException&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.CustomerType_CreateCustomerWithLessThan100Oreder_ReturnBasicCustomer&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CustomerNUnitTests.CustomerType_CreateCustomerWithLessThan100Oreder_ReturnPlatinumCustomer&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.GradingCalculatorNUnitTests.GradeCalc_InputScore85Attendance90_GetBGrede&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.GradingCalculatorNUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.FiboNUnitTests.FiboChecker_Input1_ReturnsFiboSeries&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.FiboNUnitTests.FiboChecker_Input6_ReturnsFiboSeries&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=97b6dbda_002De892_002D450f_002Da701_002Db4e071fb6a48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsOddChecker_InputEvenNumber_ReturnFalse #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
@@ -15,7 +27,7 @@
     &lt;TestId&gt;NUnit3x::744118BF-31CD-4178-A818-D5C0CD90E140::net5.0::Aug.CalculatorNUnitTests.IsOddChecker_InputEvenNumber_ReturnFalse&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7df1376_002D4780_002D461b_002D954b_002Df92ac8843094/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddNumbers_InputTwoInt_GetCorrectAddition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7df1376_002D4780_002D461b_002D954b_002Df92ac8843094/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddNumbers_InputTwoInt_GetCorrectAddition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Or&gt;
     &lt;ProjectFile&gt;98D5FABC-C0DF-4B31-B733-01C3A1FA484D/f:CalculatorMsTests.cs&lt;/ProjectFile&gt;
     &lt;TestAncestor&gt;
